@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47.uzd Method PrintGreeting", "47.uzd Method PrintGreeting\47.uzd Method PrintGreeting.csproj", "{0D80F392-536F-4F01-9B6E-5C1F790FE256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D80F392-536F-4F01-9B6E-5C1F790FE256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D80F392-536F-4F01-9B6E-5C1F790FE256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D80F392-536F-4F01-9B6E-5C1F790FE256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D80F392-536F-4F01-9B6E-5C1F790FE256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D987F94-A773-4B4B-AC6C-675F7B2648C8}
+	EndGlobalSection
+EndGlobal
